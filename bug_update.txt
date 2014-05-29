@@ -7,7 +7,11 @@ A fatal system error has occurred.
 Debugger entered on first try; Bugcheck callbacks have not been invoked.
 
 A fatal system error has occurred.
+<<<<<<< HEAD
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+=======
+
+>>>>>>> 03ebacecb0ee65a8e39237ce9af50352653ba567
 nt!RtlpBreakWithStatusInstruction:
 818d6ca4 cc              int     3
 2: kd> !analyze -v
